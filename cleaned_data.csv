@@ -1,0 +1,10 @@
+id,name,age,city,department,salary
+2,Riya Verma,,Mumbai,Marketing,60000.0
+3,Karan Mehta,30.0,,Engineering,55000.0
+4,Sneha Gupta,28.0,Pune,,45000.0
+5,Vikas Yadav,35.0,Delhi,Sales,70000.0
+6,Anjali Singh,22.0,Bangalore,Engineering,
+7,Rohit Kumar,,Chennai,Marketing,52000.0
+8,Pooja Nair,29.0,Hyderabad,Sales,48000.0
+9,Suresh Iyer,40.0,,Finance,80000.0
+10,Neha Joshi,26.0,Delhi,,51000.0
